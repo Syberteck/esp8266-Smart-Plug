@@ -5,3 +5,5 @@ Verified and working on all Alexa 2nd generation units. Flashed onto a Sonoff S2
 Voice command from alexa works great. On/Off button on S20 Sonoff plug also works great.
 
 This works on esp8266 type devices.
+
+Have not tried on NodeMCU boards. If someone has this type of board, please let me know if it works.
