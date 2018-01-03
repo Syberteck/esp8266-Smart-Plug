@@ -6,4 +6,6 @@ Voice command from alexa works great. On/Off button on S20 Sonoff plug also work
 
 This works on esp8266 type devices.
 
-Have not tried on NodeMCU boards. If someone has this type of board, please let me know if it works.
+NodeMCU chip device verified working.
+
+"@estauseb I have a NodeMCU chip. I did the change you suggested and I am now able to control the chip with my Echo Plus."
