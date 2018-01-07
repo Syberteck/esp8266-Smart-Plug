@@ -15,8 +15,8 @@ bool turnOffRelay();
 
 
 // Change this before you flash
-const char* ssid = "xxxxx";
-const char* password = "xxxxx";
+const char* ssid = "your ssid here";
+const char* password = "your ssid password here";
 
 boolean wifiConnected = false;
 
@@ -175,5 +175,3 @@ bool turnOffRelay() {
 
   return state;
 }
-
-
