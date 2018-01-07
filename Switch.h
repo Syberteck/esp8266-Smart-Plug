@@ -1,6 +1,5 @@
 #ifndef SWITCH_H
 #define SWITCH_H
- 
 #include <Arduino.h>
 #include <ESP8266WiFi.h>
 #include <ESP8266WebServer.h>
